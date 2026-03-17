@@ -1,4 +1,4 @@
-# Ledger — Bank Statement Analyzer
+# Ledger: Bank Statement Analyzer
 
 > Paste any bank statement. Claude AI categorizes your spending and surfaces plain-English insights instantly.
 
