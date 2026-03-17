@@ -2,13 +2,13 @@
 
 > Paste any bank statement. Claude AI categorizes your spending and surfaces plain-English insights instantly.
 
-Built with **Claude AI (Anthropic)**, **FastAPI**, and **React** — no ML models, no training data, just a clean LLM-powered pipeline.
+Built with **Claude AI (Anthropic)**, **FastAPI**, and **React**.
 
 ---
 
 ## What it does
 
-- Accepts transactions in any format — CSV exports, copied bank app text, raw tabular data
+- Accepts transactions in any format: CSV exports, copied bank app text, raw tabular data
 - Calls the Claude API to categorize spending automatically
 - Returns a full breakdown: categories, percentages, top merchants, largest expenses
 - Generates 4+ plain-English insights about your spending patterns
