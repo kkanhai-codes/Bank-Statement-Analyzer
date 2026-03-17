@@ -175,10 +175,3 @@ bank-analyzer/
 ```
 
 ---
-
-## Resume Talking Points
-
-- Integrated **Anthropic Claude API** with structured prompt engineering to parse arbitrary text formats into typed JSON
-- Built a **FastAPI REST backend** with Pydantic validation and graceful error handling for malformed AI responses
-- Designed a clean **React dashboard** with category breakdowns, progress bars, and AI-generated insights
-- Handled **unstructured-to-structured data** transformation entirely via LLM — no parsing rules or regex
